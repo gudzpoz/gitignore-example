@@ -1,0 +1,11 @@
+/public/uploads/*/**/*
+
+!/public/uploads/cover-photos/thumbnail/
+!/public/uploads/cover-photos/thumbnail/.gitkeep
+
+!/public/uploads/profile-photos/original/
+!/public/uploads/profile-photos/original/.gitkeep
+
+!/public/uploads/profile-photos/thumbnail/
+!/public/uploads/profile-photos/thumbnail/.gitkeep
+
